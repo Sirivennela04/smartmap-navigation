@@ -1,6 +1,6 @@
 # Ignore compiled files
-smartmap.exe
-smartmap
+map.exe
+map
 
 # Ignore object files
 *.o
