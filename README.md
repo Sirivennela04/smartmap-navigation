@@ -60,4 +60,4 @@ SmartMap Navigation is a C-based program that calculates optimal routes between 
 1. **Compile the Program**:
    Use the following command to compile the program:
    ```bash
-   gcc -o smartmap map.c
+   gcc -o map map.c
