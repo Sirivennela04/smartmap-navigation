@@ -1,0 +1,28 @@
+# Ignore compiled files
+smartmap.exe
+smartmap
+
+# Ignore object files
+*.o
+
+# Ignore backup files
+*.bak
+*.tmp
+*.swp
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore temporary files
+*.~*
